@@ -1,0 +1,6 @@
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\bin\Debug\lab__3.exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\bin\Debug\lab__3.pdb
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\obj\Debug\lab__3.csproj.AssemblyReference.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\obj\Debug\lab__3.csproj.CoreCompileInputs.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\obj\Debug\lab__3.exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab__3\obj\Debug\lab__3.pdb
