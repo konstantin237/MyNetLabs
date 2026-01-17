@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DC3422A9-9D8F-4B59-BF80-5A01A669E554}</ProjectGuid>
+    <ProjectGuid>{7120B162-F9C7-47F6-8554-4BEE84D7396E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>lab_1</RootNamespace>
     <AssemblyName>lab_1</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <LangVersion>7.3</LangVersion>  <!-- ВОТ ЭТУ СТРОКУ ДОБАВЬТЕ -->
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
