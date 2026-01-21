@@ -1,0 +1,8 @@
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\bin\Debug\lab_7.exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\bin\Debug\lab_7.pdb
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.csproj.AssemblyReference.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.Properties.Resources.resources
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.csproj.GenerateResource.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.csproj.CoreCompileInputs.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_7\obj\Debug\lab_7.pdb
