@@ -1,0 +1,6 @@
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\bin\Debug\lab_2 (console).exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\bin\Debug\lab_2 (console).pdb
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\obj\Debug\lab_2 (console).csproj.AssemblyReference.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\obj\Debug\lab_2 (console).csproj.CoreCompileInputs.cache
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\obj\Debug\lab_2 (console).exe
+C:\SKGMI\1. MyLabs\other\MyDotNetFrameworkLabs\lab_2 (console)\obj\Debug\lab_2 (console).pdb
